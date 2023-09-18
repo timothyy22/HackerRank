@@ -1,5 +1,4 @@
 package DailyHackerRank;
-import java.io.*;
 import java.util.*;
 
 public class HackerRankDay1 {
@@ -24,4 +23,4 @@ public class HackerRankDay1 {
         scanner.close();
     }
     }
-}
+
